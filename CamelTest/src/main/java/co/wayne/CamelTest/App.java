@@ -14,6 +14,8 @@ public class App
     {
         System.out.println( "Hello World!" );
 		Main main = new Main();
+		
+		// Add Route to the server
 		main.addRouteBuilder(new HelloRoute());
 		main.run();
 

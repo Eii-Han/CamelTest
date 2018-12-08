@@ -3,6 +3,12 @@ package co.wayne.CamelTest.process;
 import org.apache.camel.Exchange;
 import org.apache.camel.Processor;
 
+/**
+ * Get input from the source
+ * 
+ * @author Wayne Poon
+ *
+ */
 public class HelloProcessor implements Processor {
 
 	public void process(Exchange exchange) throws Exception {
