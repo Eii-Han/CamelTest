@@ -4,8 +4,10 @@ import org.apache.camel.main.Main;
 
 import co.wayne.CamelTest.route.HelloRoute;
 
+
 /**
- * Hello world!
+ * Hello Project for Camel Server
+ * @author han
  *
  */
 public class App 

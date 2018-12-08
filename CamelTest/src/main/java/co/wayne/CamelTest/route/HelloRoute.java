@@ -5,6 +5,10 @@ import org.apache.camel.builder.RouteBuilder;
 import co.wayne.CamelTest.process.HelloConv;
 import co.wayne.CamelTest.process.HelloProcessor;
 
+/**
+ * @author han
+ *
+ */
 public class HelloRoute extends RouteBuilder {
 
 	@Override

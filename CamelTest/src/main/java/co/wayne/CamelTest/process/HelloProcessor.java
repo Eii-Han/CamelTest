@@ -6,7 +6,7 @@ import org.apache.camel.Processor;
 /**
  * Get input from the source
  * 
- * @author Wayne Poon
+ * @author Han
  *
  */
 public class HelloProcessor implements Processor {
